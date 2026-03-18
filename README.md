@@ -14,8 +14,3 @@ See the [Module 2 Integration Task Guide](https://levelup-applied-ai.github.io/a
 **Install PyTorch before running:**
 ```bash
 pip install torch --index-url https://download.pytorch.org/whl/cpu
-```
-
-**Branch:** `integration-2/pytorch`
-
-**Submit:** PR URL → TalentLMS Unit 8 text field
