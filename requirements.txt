@@ -1,5 +1,7 @@
 numpy
 pandas
 pytest
+matplotlib
+torch
 # torch is NOT listed here — it requires a special install command.
 # See README.md for the correct torch install command.
